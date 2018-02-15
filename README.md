@@ -1,5 +1,6 @@
 # planned_platform_updates
 A list of additional features of SafeCrypt.io Platform for the upcoming updates
+
 Smart trading notifications system
 
 This feature allows users to create complex custom rules for the notifications to pop up. For instance, you want to exchange your Bitcoin to Ripple when relative "buy" price for Ripple reaches a certain value; as soon as the condition is met you will receive a notification:
