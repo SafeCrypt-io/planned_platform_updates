@@ -36,10 +36,10 @@ The cryptocurrency mixing is a feature for traders seeking maximum anonymity. Th
 functional and includes: 
 
 1. multi cryptocurrency mixing 
-- traders will be able to exchange BTC to ETH, Ripple and other cryptocurrencies or ERC20 tokens in specified proportions;
+// traders will be able to exchange BTC to ETH, Ripple and other cryptocurrencies or ERC20 tokens in specified proportions;
 
 2. delayed transactions
- - time delays can be set up by a trader for each transaction (example: send 20% 
+// time delays can be set up by a trader for each transaction (example: send 20% 
 of my ETH in 50 minutes and the remaining 80% two hours later).
 
 As we were advised by our legal consultants, the mixing functionality is a controversial topic and we will 
